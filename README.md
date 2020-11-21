@@ -9,7 +9,7 @@ Plataforma - Digital Innovation One
 
 - Estrutura em HTML5;
 - Estilos em CSS3;
-- Usando o conceito de FlexBox
+- Uso do conceito de FlexBox
 
 
 
